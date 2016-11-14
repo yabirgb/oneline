@@ -1,4 +1,5 @@
-#A copy from the oneline of ruby made using python
+#A copy of oneline of ruby made using python
+#Original https://github.com/fdavidcl/oneline
 
 ################################################################################
 # 1. Print a message (laaame) #
